@@ -2,12 +2,12 @@
 
 * [🖌️ NAFTO para React](README.md)
 
-## INTRODUCTION
+## INTRODUÇÃO
 
-* [Design Principles](introduction/design-principles.md)
-* [Brand Guidelines](introduction/brand-guidelines.md)
-* [How updates work](introduction/how-updates-work.md)
-* [Accessibility](introduction/accessibility.md)
+* [Princípios](introducao/principios.md)
+* [Orientações da Marca](introducao/orientacoes-da-marca.md)
+* [Atualizações](introducao/atualizacoes.md)
+* [Accessibility](introducao/accessibility.md)
 
 ## identity
 
