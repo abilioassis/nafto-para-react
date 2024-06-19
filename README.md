@@ -6,7 +6,7 @@ description: >-
 
 # 🖌️ NAFTO para React
 
-<figure><img src=".gitbook/assets/hero.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/hero (2).png" alt=""><figcaption></figcaption></figure>
 
 ## Design System: Fundamentos e Importância
 
