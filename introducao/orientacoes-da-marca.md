@@ -9,7 +9,9 @@ description: >-
 
 ## Símbolo e logotipo
 
-<figure><img src="../.gitbook/assets/simbolo-e-logotipo.png" alt=""><figcaption><p>A nossa marca é uma composição entre símbolo e logotipo. O uso dissociado destes elementos é restrito a casos especiais.</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/arquivos-de-marca.png" alt=""><figcaption><p>A nossa marca é uma composição entre símbolo e logotipo. O uso dissociado destes elementos é restrito a casos especiais.</p></figcaption></figure>
+
+##
 
 ## 🛠 How we build
 
