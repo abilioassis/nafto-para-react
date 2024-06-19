@@ -18,3 +18,22 @@ Ter sempre em mente que estamos trabalhando em uma gigante em tamanho e na quant
 ## Colaboração
 
 O aprimoramento do Nafto é contínuo e em colaboração com a comunidade baseado nas necessidades dos usuários e na experiência de aplicação dentro da companhia. Sempre que nos vermos fora do Design System, devemos tomar o cuidado de entender o porquê e investigar a probabilidade dessa decisão ser adicionada ao Nafto.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

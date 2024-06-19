@@ -1,4 +1,11 @@
-# Brand Guidelines
+---
+description: >-
+  A marca, entre todos os elementos de identidade visual, é o mais
+  representativo. Como uma síntese gráfica, ela nos identifica de forma rápida,
+  direta e inequívoca.
+---
+
+# Orientações da Marca
 
 ## 🧱 Foundations
 

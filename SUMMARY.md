@@ -4,7 +4,7 @@
 
 ## INTRODUÇÃO
 
-* [Princípios do Nafto](introducao/principios-do-nafto.md)
+* [Princípios do Nafto](introducao/principios.md)
 * [Orientações da Marca](introducao/orientacoes-da-marca.md)
 * [Atualizações](introducao/atualizacoes.md)
 * [Accessibility](introducao/accessibility.md)
