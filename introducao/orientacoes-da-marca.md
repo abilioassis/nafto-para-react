@@ -7,9 +7,9 @@ description: >-
 
 # Orientações da Marca
 
-## 🧱 Foundations
+## Símbolo e logotipo
 
-Our brand foundation is inextricably linked to the emotional and functional sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+<figure><img src="../.gitbook/assets/simbolo-e-logotipo.png" alt=""><figcaption><p>A nossa marca é uma composição entre símbolo e logotipo. O uso dissociado destes elementos é restrito a casos especiais.</p></figcaption></figure>
 
 ## 🛠 How we build
 
