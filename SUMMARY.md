@@ -1,10 +1,10 @@
 # Table of contents
 
-* [🖌️ NAFTO para React](README.md)
+* [NAFTO para React](README.md)
 
 ## INTRODUÇÃO
 
-* [Princípios](introducao/principios.md)
+* [Princípios do Nafto](introducao/principios-do-nafto.md)
 * [Orientações da Marca](introducao/orientacoes-da-marca.md)
 * [Atualizações](introducao/atualizacoes.md)
 * [Accessibility](introducao/accessibility.md)

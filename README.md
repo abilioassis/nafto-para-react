@@ -4,7 +4,7 @@ description: >-
   React.
 ---
 
-# 🖌️ NAFTO para React
+# NAFTO para React
 
 <figure><img src=".gitbook/assets/hero (2).png" alt=""><figcaption></figcaption></figure>
 
