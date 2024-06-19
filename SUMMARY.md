@@ -1,20 +1,9 @@
 # Table of contents
 
 * [NAFTO para React](README.md)
-
-## INTRODUÇÃO
-
-* [Princípios do Nafto](introducao/principios.md)
-* [Orientações da Marca](introducao/orientacoes-da-marca.md)
-* [Atualizações](introducao/atualizacoes.md)
-* [Accessibility](introducao/accessibility.md)
-
-## identity
-
-* [Logos](identity/logos.md)
-* [Colors](identity/colors.md)
-* [Typography](identity/typography.md)
-* [Imagery](identity/imagery.md)
+* [Princípios do Nafto](principios-do-nafto.md)
+* [Identidade Visual](identidade-visual.md)
+* [Cores](cores.md)
 
 ## Components
 
