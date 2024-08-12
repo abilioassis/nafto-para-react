@@ -1,19 +1,39 @@
 ---
 description: >-
-  Explore nosso design system para o desenvolvimento de produtos digitais em
-  React.
+  Os princípios e valores guiam nosso trabalho diário, facilitam decisões de
+  design e economizam tempo e dinheiro, permitindo que o time se concentre em
+  problemas mais complexos.
 ---
 
-# NAFTO para React
+# Princípios do Nafto
 
-<figure><img src=".gitbook/assets/hero (2).png" alt=""><figcaption></figcaption></figure>
+## Experiência e Eficiência
 
-## Design System: Fundamentos e Importância
+Os nossos produtos digitais devem ser simples e eficazes, consistentes com informações organizadas e estruturadas para solucionar as necessidades dos usuários. Por isso a nossa busca é sempre por uma experiência que transmita confiança e familiaridade aos usuários sendo adaptável de acordo com o contexto de quem a utiliza.
 
-Um design system é um conjunto de elementos de design, como cores, tipografia, componentes e diretrizes, usados para criar uma aparência consistente em produtos digitais. Aqui está por que ele é importante:
+## Atender as necessidades de uma Gigante
 
-1. **Consistência**: Garante que todos os elementos visuais em um produto sejam uniformes, criando uma experiência coesa para os usuários.
-2. **Eficiência**: Facilita o desenvolvimento ao fornecer componentes reutilizáveis e documentação clara, economizando tempo e esforço.
-3. **Escalabilidade**: Ajuda na expansão do produto ao manter a coesão visual mesmo com o crescimento da equipe e das funcionalidades.
-4. **Usabilidade**: Contribui para uma interface intuitiva e fácil de usar, melhorando a experiência do usuário e aumentando a satisfação.
-5. **Marca Forte**: Reforça a identidade da marca por meio de elementos visuais consistentes, fortalecendo o reconhecimento e a confiança dos usuários.
+Ter sempre em mente que estamos trabalhando em uma gigante em tamanho e na quantidade de soluções, tecnologias e linguagens diferentes que convivem e, principalmente, milhares de usuários cativos diariamente.
+
+## Colaboração
+
+O aprimoramento do Nafto é contínuo e em colaboração com a comunidade baseado nas necessidades dos usuários e na experiência de aplicação dentro da companhia. Sempre que nos vermos fora do Design System, devemos tomar o cuidado de entender o porquê e investigar a probabilidade dessa decisão ser adicionada ao Nafto.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,7 +1,6 @@
 # Table of contents
 
-* [NAFTO para React](README.md)
-* [Princípios do Nafto](principios-do-nafto.md)
+* [Princípios do Nafto](README.md)
 * [Identidade Visual](identidade-visual.md)
 * [Cores](cores.md)
 
